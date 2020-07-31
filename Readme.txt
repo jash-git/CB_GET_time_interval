@@ -1,0 +1,1 @@
+純C/C++ 計算時間差 [CB_GET_time_interval]
